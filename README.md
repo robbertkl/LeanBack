@@ -4,7 +4,7 @@ Simple OS X demo for automatic screen zoom based on distance of your head to the
 
 The idea was based on this tweet:
 
-<img src="Tweet.png">
+<img src="Tweet.png" width="357" height="182">
 
 ## Installation
 
